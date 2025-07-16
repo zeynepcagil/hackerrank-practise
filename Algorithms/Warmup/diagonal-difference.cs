@@ -11,5 +11,3 @@
         return Math.Abs(primarySum-secondarySum);
 
     }
-
-}
